@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__mcp-unity__load_scene",
+      "mcp__mcp-unity__update_component",
+      "mcp__mcp-unity__create_prefab",
+      "mcp__mcp-unity__update_gameobject",
+      "mcp__mcp-unity__get_console_logs",
+      "mcp__mcp-unity__select_gameobject"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "mcp-unity"
+  ]
+}

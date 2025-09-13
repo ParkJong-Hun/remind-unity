@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "mcp-unity": {
+      "command": "node",
+      "args": [
+        "/Users/parkjonghun/development/remind-unity/Library/PackageCache/com.gamelovers.mcp-unity@564610275ecb/Server~/build/index.js"
+      ]
+    }
+  }
+}
